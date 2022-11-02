@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Yogendra-sodha
-- 👀 I’m interested in Badminton
-- 🌱 I’m currently learning Data Visualization and exploration
-- 💞️ I’m looking to collaborate on data analyst
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me ysodha@stevens.edu
 
 <!---
