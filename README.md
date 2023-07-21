@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yogendra-sodha
-- 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me ysodha@stevens.edu
+- 📫 Let's connect and explore the possibilities of how data can transform businesses. Feel free to reach out to me via email at ysodha@stevens.edu
 
 <!---
 Yogendra-sodha/Yogendra-sodha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
